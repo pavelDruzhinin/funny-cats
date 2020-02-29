@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "When my cat wants to sit35",
+        "author": "John Doe",
+        "votes": 150,
+        "url": "https://dcist.com/wp-content/uploads/sites/3/2019/04/Gem2-1500x1346.jpg",
+        "comments": 15
+    },
+    {
+        "id": 2,
+        "title": "When my cat wants to sit",
+        "author": "John Doe",
+        "votes": 150,
+        "url": "https://dcist.com/wp-content/uploads/sites/3/2019/04/Gem2-1500x1346.jpg",
+        "comments": 15
+    },
+    {
+        "id": 3,
+        "title": "When my cat wants to sit",
+        "author": "John Doe",
+        "votes": 150,
+        "url": "https://dcist.com/wp-content/uploads/sites/3/2019/04/Gem2-1500x1346.jpg",
+        "comments": 15
+    },
+    {
+        "id": 4,
+        "title": "When my cat wants to sit",
+        "author": "John Doe",
+        "votes": 150,
+        "url": "https://dcist.com/wp-content/uploads/sites/3/2019/04/Gem2-1500x1346.jpg",
+        "comments": 15
+    }
+]

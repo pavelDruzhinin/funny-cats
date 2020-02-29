@@ -1,0 +1,41 @@
+.post-item {
+  background-color: white;
+  font-weight: 700;
+  max-width: 580px;
+  padding: 30px 15px;
+  border: 1px solid #e4e4e4;
+  border-radius: 6px;
+  margin: 40px;
+  .title {
+    font-size: 24px;
+    border-bottom: 1px solid #e4e4e4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+
+  .post-image img {
+    width: 100%;
+  }
+
+  .panel {
+    .vote-panel {
+      margin-right: 10px;
+      .like {
+        margin-right: 5px;
+        // background: url("/assets/vote-like.png");
+      }
+      .vote-count {
+        margin-right: 5px;
+      }
+      .dislike {
+        // background: url("/assets/vote-dislike.png");
+      }
+    }
+
+    .comments-panel {
+      .comments-count {
+        margin-right: 5px;
+      }
+    }
+  }
+}
